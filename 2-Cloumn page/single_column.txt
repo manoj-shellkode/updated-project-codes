@@ -1,0 +1,130 @@
+@PCPRO
+
+11
+
+PCPRO.CO.UK/NEWS
+Brieﬁ
+ ng News
+
+processors – no small commitment 
+after the unmitigated disaster of its 
+previous effort to embrace ARM, 
+Windows RT.
+However, it’s now been suggested 
+that the faults with the Surface 
+hardware were nothing to do 
+with Intel, but with Microsoft’s 
+own software drivers. 
+This only came to light when 
+Microsoft CEO Satya Nadella visited 
+PC builder Lenovo and asked how 
+the company was coping with 
+theSkylake problems. According 
+to Thurrott’s sources, Lenovo’s 
+management were bewildered, 
+telling Nadella they had experienced 
+no reliability issues with Intel’s 
+processors at all. It appears 
+Microsoft’s CEO had been led up 
+the garden path by his own staff. 
+If true, it suggests Microsoft’s 
+engineers were so concerned about 
+covering their backsides that they 
+misled their own CEO. Microsoft 
+declined to comment on the 
+company’s internal machinations.  
+
+QConsumer confidence
+While the revelations might 
+temporarily sour relations between 
+Microsoft and Intel, the row is 
+unlikely to distract consumers, 
+many of whom don’t know or don’t 
+care what components are in their 
+laptops – especially if the hardware 
+is Microsoft-branded.
+
+“I think this whole issue of Intel 
+support is a red herring,” said Cherry.  
+“I am using Surface hardware because 
+in the event of a problem, I want to 
+be able to walk into a Microsoft store 
+and say ‘this isn’t working, fix it’. 
+“The hardware and the software 
+have its name on them, so I don’t care 
+who made the processor, the disk 
+drive, the RAM or even the pen which 
+I never use. As far as I’m concerned, 
+it’s all from Microsoft.” 
+
+ It appears 
+Microsoft’s CEO 
+Satya Nadella had 
+been led up the garden 
+path by his own staﬀ
+  
+
+4 TalkTalk hit with ICO 
+fine over data care
+TalkTalk was hit with a £100,000 fine by 
+the Information Commissioner’s Office for 
+leaking 21,000 customer accounts to hackers 
+in an Indian call centre, its second ICO fine in a 
+year. The data was used to target customers 
+with fake support calls, after “unjustifiably 
+wide-ranging” permissions were given to 
+staff of an Indian outsourcing firm.
+
+Five 
+stories 
+not to 
+miss
+
+3 Tech leaders 
+quit Trump board
+Tech leaders on the US’s digital economy 
+advisory board quit in protest over President 
+Trump’s refusal to condemn right-wing and 
+white supremacist violence in Charlottesville. 
+Confirmed resignations include Microsoft 
+president Brad Smith, Mozilla chair Mitchell 
+Baker and IEEE president Karen Bartleson. 
+
+5 Brexit investment 
+pain for startups
+UK tech startups face a huge drop in funding 
+after the European Investment Fund – which 
+poured €2.3 billion into the UK between 2011 
+and 2015 – turned off the tap. The EIF said 
+there was no official block on post-Article 50 
+investment, but multiple venture-capital 
+funds told media outlets the cash had 
+simply dried up.
+
+1 RBS to shed 40% 
+of London IT staff
+The Unite union claimed that taxpayer-owned 
+bank RBS was to cut 40% of its UK IT staff, 
+with the loss of 900 jobs due to cost-cutting, 
+restructuring and offshoring.  The bank 
+said any changes were down to it being 
+a “simpler, smaller” bank, but Unite 
+said the cuts coming into effect by 
+2020 would leave it “operating 
+a skeleton service”.
+
+2 Google searching 
+for sexism answers
+Google came under fire for its lack of 
+diversity after an engineer’s internal 
+manifesto went viral after claiming 
+that “the distribution of preferences 
+and abilities of men and women differ 
+in part due to biological causes”. The 
+engineer was swiftly fired, but the 
+fallout highlighted divisions over how 
+women and minorities are treated and 
+paid at the company. 
+
+ 
+

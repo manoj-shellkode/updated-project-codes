@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    demo1:
+      email: demo01@shellkode.com
+      name: Demo User 01
+      password: $2b$12$bS9srhq0f1e61sA3gYTkW.3OSgbrZJVrM0S8.d8pfaD7.LXbhcsTe #SKDemo@123321
+    demo2:
+      email: demo02@shellkode.com
+      name: Demo User 02
+      password: $2b$12$j0qKcXweAlksIw8ZQgPnFOlfbCpN629hZJyZuSsByNoVimedCvRLG #SKDemo@24
+cookie:
+  expiry_days: 7
+  key: SKode # Must be string
+  name: SKode_cookie
+preauthorized:
+  emails:
+  - suman.p@shellkode.com
